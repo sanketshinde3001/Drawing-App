@@ -2,7 +2,7 @@
 [<img src="https://raw.githubusercontent.com/tolgee/documentation/main/tolgee_logo_text.svg" alt="Tolgee" width="100" />](https://tolgee.io)
 
 ### [Live Website](https://drawing-challange.vercel.app/)
-### [Dev.to Blog Link]([https://dev.to/sanketshinde/joke-generator-with-tolgee-b0](https://dev.to/sanketshinde/daily-drawing-challenge-a-creative-journey-with-tolgee-5dg2))
+### [Dev.to Blog Link](https://dev.to/sanketshinde/daily-drawing-challenge-a-creative-journey-with-tolgee-5dg2)
 ##
 Here i used `tolgee` with `next.js` app router.
 based on `next14` app folder with `tolgee` and `next-intl` package.
